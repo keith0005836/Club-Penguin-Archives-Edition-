@@ -42,7 +42,7 @@ This project is lovingly crafted to keep the memory of Club Penguin alive and pr
 
 > Below is an illustrative example of a SWF file present in the archive:
 
-![SWF Preview](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22bandicam%202025-05-03%2012-20-38-837.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-02T15%3A15%3A56.001Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F095e24e455b348dd%2Fbandicam%25202025-05-03%252012-20-38-837.jpg%3FExpires%3D1840893356%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DCT22ld5shG1gnP~6Sp8j6-mMjTfNQEol-DB7v~CpN~AEAR206CnhqkcG53Np3jkXO8H1JSafiA~3PBGVsYBsghVPVuPrx~yYi0CfCYQPT8i2TviHzyQYqgRD8DIvnrJRbCoBJrwy4DWdC1U5X6KrbAqfXhdplERHoqP9~O2zRNYiZoZUsIR0UXTU7VEW4h5O5~osP5c8WgjZWbDLumGRmV8LsCRaZUjJ~SleePOPeZNd5ESvxi2zFtJN60SOSv3TUVqmd-m~8tqIsvR72K2YMzmXD3Kj-ZWUN2lSfKijTYifXdm8fh1boO8WxBKLIO-ax5NoLCTS1JVbA3v6sW~oJQ__%22%7D) <!-- Replace later -->
+![SWF Preview](https://cdn.corenexis.com/i/d/ma3/bJ3YJq.jpg?token=07665137cb3906f90ec795ffbe3684cd) <!-- Replace later -->
 
 ---
 
