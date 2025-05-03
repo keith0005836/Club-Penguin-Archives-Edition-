@@ -42,7 +42,7 @@ This project is lovingly crafted to keep the memory of Club Penguin alive and pr
 
 > Below is an illustrative example of a SWF file present in the archive:
 
-![SWF Preview](https://cdn.corenexis.com/i/d/ma3/bJ3YJq.jpg?token=07665137cb3906f90ec795ffbe3684cd)
+![SWF Preview](https://media.discordapp.net/attachments/1289593792810455072/1368248668989423797/bandicam_2025-05-03_12-20-38-837.jpg?ex=6817885f&is=681636df&hm=42fabe18c4d076c1c385267b00c6af9754daa69c9a5c75817812c585bede0ad2&=&format=webp&width=542&height=324)
 
 ---
 
