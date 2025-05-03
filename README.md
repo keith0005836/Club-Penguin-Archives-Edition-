@@ -7,7 +7,7 @@
 🎯 **Status:** `🚧 In Development`
 📁 **Project Type:** Digital Preservation / Archiving
 🕹️ **Contents:** Static `.SWF` files from Club Penguin
-❌ **Important:** **Does not include games or interactive animations**
+❌ **Important:** **When I put the download online, the folder may be missing some things and it may also be added soon.**
 
 ---
 
