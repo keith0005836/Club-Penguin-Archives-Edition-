@@ -42,7 +42,7 @@ This project is lovingly crafted to keep the memory of Club Penguin alive and pr
 
 > Below is an illustrative example of a SWF file present in the archive:
 
-![SWF Preview](https://cdn.corenexis.com/i/d/ma3/bJ3YJq.jpg?token=07665137cb3906f90ec795ffbe3684cd) <!-- Replace later -->
+![SWF Preview](https://cdn.corenexis.com/i/d/ma3/bJ3YJq.jpg?token=07665137cb3906f90ec795ffbe3684cd)
 
 ---
 
