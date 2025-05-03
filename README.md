@@ -59,7 +59,7 @@ This project is lovingly crafted to keep the memory of Club Penguin alive and pr
 
 Most of the `.SWF` files available here were collected from the project:
 
-🔗 ![**Club Penguin Archives**]([https://clubpenguinarchives.com](https://archives.clubpenguinwiki.info/wiki/Main_Page))
+🔗 [**Club Penguin Archives**](https://archives.clubpenguinwiki.info/wiki/Main_Page)
 
 All credit for the original files goes to them.
 
